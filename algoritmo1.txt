@@ -1,4 +1,4 @@
-leia xºC 
-leia y°F
-resultado = xºC = y°F - 32/1,8 ou y°F = 1,8*xºC + 32
-escreva xºC ou y°F
+leia x 
+leia y
+resultado = x + y 
+escrever resultado 
