@@ -1,0 +1,7 @@
+U= unidade    M= media
+
+leia U
+leia M
+faça a soma de todos os U e divide pela contagem de todos os U
+resultado = U + U + U + U.../M
+escrever resultado
