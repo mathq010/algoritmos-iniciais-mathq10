@@ -1,0 +1,6 @@
+leia F
+leia C
+leia U
+se U for C faça resultado = F - 32/1,8
+se u for F faça resultado = 1,8*C + 32
+escrever resultado 
